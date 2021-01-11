@@ -1,0 +1,12 @@
+import Menu from '../src/components/Menu/Menu';
+import Speakers from '../src/components/Speakers/Speakers';
+
+import Layout from '../src/components/Layout/Layout';
+
+export default function Page() {
+  return (
+      <Layout>
+        <Speakers bgColor="bg-gray-500"/>
+      </Layout>
+  );
+}

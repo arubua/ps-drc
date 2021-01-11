@@ -1,0 +1,32 @@
+{
+  "name": "ps-drc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "json-server": "json-server --watch db.json --port 4000 --delay 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.1.0",
+    "axios": "^0.21.1",
+    "next": "^10.0.4",
+    "postcss": "^8.2.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-simple-img": "^2.3.9",
+    "recompose": "^0.30.0",
+    "tailwindcss": "^2.0.2"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "3.0.0",
+    "json-server": "^0.16.3",
+    "postcss-preset-env": "6.7.0",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
+  }
+}
