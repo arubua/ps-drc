@@ -5,21 +5,21 @@
       "firstName": "Tamara",
       "lastName": "Baker",
       "bio": "Tammy has held a number of executive and management roles over the past 15 years, including VP engineering Roles at Molekule Inc., Cantaloupe Systems, E-Color, and Untangle Inc.",
-      "isFavorite": true
+      "isFavorite": false
     },
     {
       "id": 5996,
       "firstName": "Craig",
       "lastName": "Berntson",
       "bio": "Craig has a passion for community and helping other developers improve their skills. He writes the column \"Software Gardening\" in DotNet Curry Magazine and is the co-author of \"Continuous Integration in .NET\" available from Manning.",
-      "isFavorite": false
+      "isFavorite": true
     },
     {
       "id": 10803,
       "firstName": "Eugene",
       "lastName": "Chuvyrov",
       "bio": "Eugene Chuvyrov is  a Senior Cloud Architect at Microsoft. He works directly with both startups and enterprises to enable their solutions in Microsoft cloud, and to make Azure better as a result of this work with partners.",
-      "isFavorite": false
+      "isFavorite": true
     },
     {
       "id": 1124,
@@ -43,10 +43,8 @@
       "id": 1269,
       "firstName": "Arun",
       "lastName": "Gupta",
-      "isFavorite": true,
       "bio": "Arun Gupta is a Principal Open Source Technologist at Amazon Web Services. He has built and led developer communities for 12+ years at Sun, Oracle, Red Hat and Couchbase.",
-      "sat": false,
-      "sun": true
+      "isFavorite": false
     },
     {
       "id": 1725,
