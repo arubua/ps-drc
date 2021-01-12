@@ -1,6 +1,13 @@
 {
   "/_app": "pages/_app.js",
+  "/": "pages/index.html",
+  "/speakers-arrayonly": "pages/speakers-arrayonly.html",
+  "/speakers-context": "pages/speakers-context.html",
+  "/speakers-renderpropsdata": "pages/speakers-renderpropsdata.html",
+  "/speakers-withdata": "pages/speakers-withdata.html",
+  "/speakers": "pages/speakers.html",
+  "/tailwind": "pages/tailwind.html",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/speakers": "pages/speakers.js"
+  "/404": "pages/404.html"
 }
